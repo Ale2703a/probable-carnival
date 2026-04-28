@@ -1,0 +1,8 @@
+{
+  "modelo": "llama3",
+  "streaming": true,
+  "limite_mensagens": 20,
+  "pasta_memoria": "memoria",
+  "persona": "Você é um assistente pessoal inteligente, direto e amigável. Responda sempre em português do Brasil. Seja conciso, mas completo. Se não souber algo, diga claramente.",
+  "nome_assistente": "Aria"
+}
