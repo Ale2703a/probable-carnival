@@ -1,6 +1,6 @@
 Visão Geral do Projeto
 
-Este projeto é uma IA pessoal em desenvolvimento, inspirada em assistentes inteligentes como J.A.R.V.I.S. e na IA Shogun do Miyauti.
+Este **projeto é uma IA pessoal** em desenvolvimento, inspirada em assistentes inteligentes como *J.A.R.V.I.S. e na IA Shogun do Miyauti*.
 
 O objetivo é criar um assistente capaz de interagir por texto e voz, executar comandos no computador e automatizar tarefas do sistema de forma progressiva.
 
